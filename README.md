@@ -19,3 +19,7 @@ An end-to-end Python pipeline engineered to automate the extraction, processing,
 2. Install dependencies: `pip install pandas requests openpyxl`
 3. Configure environment variables for your email client (`EMAIL_USER`, `EMAIL_PASS`).
 4. Execute the pipeline: `python pipeline.py`
+
+## Files
+- Day65_project-complete_automation_pipel.py
+- Market_report_20260628.xlsx
